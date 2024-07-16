@@ -1,0 +1,55 @@
+L:\DEV FILES\VS Projects\VS 2017\EnviaTest\EnviaTest\bin\Debug\EnviaTest.exe.config
+L:\DEV FILES\VS Projects\VS 2017\EnviaTest\EnviaTest\bin\Debug\EnviaTest.exe
+L:\DEV FILES\VS Projects\VS 2017\EnviaTest\EnviaTest\bin\Debug\EnviaTest.pdb
+L:\DEV FILES\VS Projects\VS 2017\EnviaTest\EnviaTest\obj\Debug\EnviaTest.csprojAssemblyReference.cache
+L:\DEV FILES\VS Projects\VS 2017\EnviaTest\EnviaTest\obj\Debug\CS_CRUD_SQLServer.AddUser.resources
+L:\DEV FILES\VS Projects\VS 2017\EnviaTest\EnviaTest\obj\Debug\CS_CRUD_SQLServer.CPanel.resources
+L:\DEV FILES\VS Projects\VS 2017\EnviaTest\EnviaTest\obj\Debug\CS_CRUD_SQLServer.EditUser.resources
+L:\DEV FILES\VS Projects\VS 2017\EnviaTest\EnviaTest\obj\Debug\CS_CRUD_SQLServer.Login.resources
+L:\DEV FILES\VS Projects\VS 2017\EnviaTest\EnviaTest\obj\Debug\CS_CRUD_SQLServer.Properties.Resources.resources
+L:\DEV FILES\VS Projects\VS 2017\EnviaTest\EnviaTest\obj\Debug\CS_CRUD_SQLServer.UserManagement.resources
+L:\DEV FILES\VS Projects\VS 2017\EnviaTest\EnviaTest\obj\Debug\CS_CRUD_SQLServer.ViewUser.resources
+L:\DEV FILES\VS Projects\VS 2017\EnviaTest\EnviaTest\obj\Debug\EnviaTest.csproj.GenerateResource.cache
+L:\DEV FILES\VS Projects\VS 2017\EnviaTest\EnviaTest\obj\Debug\EnviaTest.csproj.CoreCompileInputs.cache
+L:\DEV FILES\VS Projects\VS 2017\EnviaTest\EnviaTest\obj\Debug\EnviaTest.exe
+L:\DEV FILES\VS Projects\VS 2017\EnviaTest\EnviaTest\obj\Debug\EnviaTest.pdb
+C:\net Repository\EnviaTest\src\EnviaTest\EnviaTest\bin\Debug\EnviaTest.exe.config
+C:\net Repository\EnviaTest\src\EnviaTest\EnviaTest\bin\Debug\EnviaTest.exe
+C:\net Repository\EnviaTest\src\EnviaTest\EnviaTest\bin\Debug\EnviaTest.pdb
+C:\net Repository\EnviaTest\src\EnviaTest\EnviaTest\bin\Debug\Bunifu.Licensing.dll
+C:\net Repository\EnviaTest\src\EnviaTest\EnviaTest\bin\Debug\Bunifu.UI.WinForms.dll
+C:\net Repository\EnviaTest\src\EnviaTest\EnviaTest\bin\Debug\Bunifu.UI.WinForms.xml
+C:\net Repository\EnviaTest\src\EnviaTest\EnviaTest\obj\Debug\EnviaTest.csproj.AssemblyReference.cache
+C:\net Repository\EnviaTest\src\EnviaTest\EnviaTest\obj\Debug\EnviaTest.csproj.SuggestedBindingRedirects.cache
+C:\net Repository\EnviaTest\src\EnviaTest\EnviaTest\obj\Debug\EnviaTest.AgregarUsuario.resources
+C:\net Repository\EnviaTest\src\EnviaTest\EnviaTest\obj\Debug\EnviaTest.Panel_Envia.resources
+C:\net Repository\EnviaTest\src\EnviaTest\EnviaTest\obj\Debug\EnviaTest.EditarUsuario.resources
+C:\net Repository\EnviaTest\src\EnviaTest\EnviaTest\obj\Debug\EnviaTest.Login_Envia.resources
+C:\net Repository\EnviaTest\src\EnviaTest\EnviaTest\obj\Debug\EnviaTest.Properties.Resources.resources
+C:\net Repository\EnviaTest\src\EnviaTest\EnviaTest\obj\Debug\EnviaTest.AdminUsuario.resources
+C:\net Repository\EnviaTest\src\EnviaTest\EnviaTest\obj\Debug\EnviaTest.VerUsuario.resources
+C:\net Repository\EnviaTest\src\EnviaTest\EnviaTest\obj\Debug\EnviaTest.csproj.GenerateResource.cache
+C:\net Repository\EnviaTest\src\EnviaTest\EnviaTest\obj\Debug\EnviaTest.csproj.CoreCompileInputs.cache
+C:\net Repository\EnviaTest\src\EnviaTest\EnviaTest\obj\Debug\EnviaTest.csproj.CopyComplete
+C:\net Repository\EnviaTest\src\EnviaTest\EnviaTest\obj\Debug\EnviaTest.exe
+C:\net Repository\EnviaTest\src\EnviaTest\EnviaTest\obj\Debug\EnviaTest.pdb
+C:\D\EnviaTest\src\EnviaTest\EnviaTest\bin\Debug\EnviaTest.exe.config
+C:\D\EnviaTest\src\EnviaTest\EnviaTest\bin\Debug\EnviaTest.exe
+C:\D\EnviaTest\src\EnviaTest\EnviaTest\bin\Debug\EnviaTest.pdb
+C:\D\EnviaTest\src\EnviaTest\EnviaTest\bin\Debug\Bunifu.Licensing.dll
+C:\D\EnviaTest\src\EnviaTest\EnviaTest\bin\Debug\Bunifu.UI.WinForms.dll
+C:\D\EnviaTest\src\EnviaTest\EnviaTest\bin\Debug\Bunifu.UI.WinForms.xml
+C:\D\EnviaTest\src\EnviaTest\EnviaTest\obj\Debug\EnviaTest.csproj.AssemblyReference.cache
+C:\D\EnviaTest\src\EnviaTest\EnviaTest\obj\Debug\EnviaTest.csproj.SuggestedBindingRedirects.cache
+C:\D\EnviaTest\src\EnviaTest\EnviaTest\obj\Debug\EnviaTest.AgregarUsuario.resources
+C:\D\EnviaTest\src\EnviaTest\EnviaTest\obj\Debug\EnviaTest.Panel_Envia.resources
+C:\D\EnviaTest\src\EnviaTest\EnviaTest\obj\Debug\EnviaTest.EditarUsuario.resources
+C:\D\EnviaTest\src\EnviaTest\EnviaTest\obj\Debug\EnviaTest.Login_Envia.resources
+C:\D\EnviaTest\src\EnviaTest\EnviaTest\obj\Debug\EnviaTest.Properties.Resources.resources
+C:\D\EnviaTest\src\EnviaTest\EnviaTest\obj\Debug\EnviaTest.AdminUsuario.resources
+C:\D\EnviaTest\src\EnviaTest\EnviaTest\obj\Debug\EnviaTest.VerUsuario.resources
+C:\D\EnviaTest\src\EnviaTest\EnviaTest\obj\Debug\EnviaTest.csproj.GenerateResource.cache
+C:\D\EnviaTest\src\EnviaTest\EnviaTest\obj\Debug\EnviaTest.csproj.CoreCompileInputs.cache
+C:\D\EnviaTest\src\EnviaTest\EnviaTest\obj\Debug\EnviaTest.csproj.CopyComplete
+C:\D\EnviaTest\src\EnviaTest\EnviaTest\obj\Debug\EnviaTest.exe
+C:\D\EnviaTest\src\EnviaTest\EnviaTest\obj\Debug\EnviaTest.pdb
